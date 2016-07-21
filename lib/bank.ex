@@ -1,0 +1,2 @@
+defmodule Bank do
+end
